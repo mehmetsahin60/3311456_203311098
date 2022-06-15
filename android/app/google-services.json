@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216490533702",
+    "project_id": "burclarrehberi",
+    "storage_bucket": "burclarrehberi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216490533702:android:09719897e15d3509c57b47",
+        "android_client_info": {
+          "package_name": "com.burc.cepte.burcunuz_cepte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216490533702-ki2mm4ia6ck4p6jjcp46sns7bcthn40l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.burc.cepte.burcunuz_cepte",
+            "certificate_hash": "1208e7bbac26356b31404b57f52012ac1c32479d"
+          }
+        },
+        {
+          "client_id": "216490533702-h7annpdei5qgrgnhat3hddi5d2rajt57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQnUfxhuTF0kwWg2i7tv-VZ0XlwvA85s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216490533702-h7annpdei5qgrgnhat3hddi5d2rajt57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
